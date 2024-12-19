@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المترو</string>
+    <string name="KnowYourTripDetails">اعرف تفاصيل رحلتك</string>
+    <string name="ChooseStartStation">Choose Start Station</string>
+    <string name="ChooseEndStation">Choose End Station\n</string>
+    <string name="startStation">Start Station</string>
+    <string name="endStation">End Station\n</string>
+    <string name="knowdetails">Know Details</string>
+</resources>

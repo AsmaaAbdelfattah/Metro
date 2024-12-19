@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Metro</string>
+
+    <string name="KnowYourTripDetails">Know Your Trip Details</string>
+    <string name="ChooseStartStation">Choose Start Station</string>
+    <string name="ChooseEndStation">Choose End Station\n</string>
+    <string name="startStation">Start Station</string>
+    <string name="endStation">End Station\n</string>
+    <string name="knowdetails">Know Details</string>
+    <string-array name="lines">
+        <item>"new el-marg"</item>>
+        <item>"el-marg"</item>
+        <item>"ezbet el-nakhl"</item>
+        <item>"ain shams"</item>
+        <item>"el-matareyya"</item>
+        <item>"helmeyet al-zaitoun"</item>
+        <item>"hadayeq al-zaitoun"</item>
+        <item>"saray el-qobba"</item>
+        <item>"hammamat el-qobba"</item>
+        <item>"kobri el-qobba"</item>
+        <item>"manshiet el-sadr"</item>
+        <item>"el-demerdash"</item>
+        <item>"ghamra"</item>
+        <item>"al-shohadaa"</item>
+        <item>"orabi"</item>
+        <item>"nasser"</item>
+        <item>"sadat"</item>
+        <item>"saad zaghloul"</item>
+        <item>"al-sayeda zeinab"</item>
+        <item>"el-malek el-saleh"</item>
+        <item>"mar girgis"</item>
+        <item>"el-zahraa"</item>
+        <item>"dar el-salam"</item>
+        <item>"hadayek el-maadi"</item>
+        <item>"maadi"</item>
+        <item>"sakanat el-maadi"</item>
+        <item>"tora el-balad"</item>
+        <item>"kozzika"</item>
+        <item>"tura el-esmant"</item>
+        <item>"elmasraa"</item>
+        <item>"hadayek helwan"</item>
+        <item>"wadi hof"</item>
+        <item>"helwan university"</item>
+        <item>"ain helwan"</item>
+        <item>"helwan"</item>
+    </string-array>
+</resources>
